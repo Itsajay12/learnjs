@@ -1,0 +1,29 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+#header{
+    background-image: linear-gradient(to right, var(--secondary--color-1) 22%, transparent 63%);
+}
+#section2{
+    background-image: linear-gradient(to right, var(--secondary--color-1) 22%, transparent 63%);
+}
+select{
+    border: none;
+    background-color: #fff;
+}
+.hero-img{
+    position:relative;
+    left:40rem;
+    bottom: 400px;
+}
+.carousel-item{
+    display: flex;
+   flex-direction: row;
+  
+
+}
+.carousel-item img{
+ 
+    width: 155px;
+    height: 155px;
+  
+   
+}
